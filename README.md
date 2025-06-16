@@ -84,6 +84,7 @@
 - [syncs.v](./src/syncs.v)
 - [timeCounter.v](./src/timeCounter.v)
 - [top.v](./src/top.v)
+  
 **Constraints File**
 - [Basys3_Master_HDMI.xdc](./constraints/Basys3_Master_HDMI.xdc)
   
